@@ -8,8 +8,8 @@ various competitive problem solutions
     Output
     Output should be a number which is the next palindrome.
     
-    Sample Input & Output
-    22 33
-    12321 12421
-    12344321 12355321
+    Sample Input
+    22,12321,12344321
     
+    Sample Output
+    33,12421,12355321
