@@ -7,7 +7,7 @@ various competitive problem solutions
     The input number will contain 2 to 15 digits.
     Output
     Output should be a number which is the next palindrome.
-
+    
     Sample Input & Output
     22 33
     12321 12421
